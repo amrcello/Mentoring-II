@@ -21,6 +21,15 @@ Com a orientação de:
 * Prof. João Carlos de Moraes Morselli Júnior (Boca)
 * Prof. Fabiano Costa Teixeira
 
+## Imagens
+### Tela de Título
+![Imagem da Tela de Título](https://github.com/rhian-cs/AndromedaSolids/blob/main/readme_img/titulo.png?raw=true)
+### Escolha dos Sólidos
+![Imagem da Tela de Apresentação dos Sólidos](https://github.com/rhian-cs/AndromedaSolids/blob/main/readme_img/escolha-solidos.png?raw=true)
+### Tela de Apresentação dos Sólidos
+![Imagem da Tela de Apresentação dos Sólidos](https://github.com/rhian-cs/AndromedaSolids/blob/main/readme_img/solidos.png?raw=true)
+
+
 ## Instalação
 [Clique aqui para baixar o software](https://drive.google.com/drive/folders/1WnsRjlmZh2tBcbuB9ssES-8MLjC0MAw4).
 Apenas escolha seu sistema operacional (Windows ou Linux), extraia o arquivo e execute AndromedaSolids.
