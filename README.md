@@ -1,4 +1,4 @@
-Andromeda Solids
+##Andromeda Solids
 Andromeda Solids é um visualizador de sólidos feito pelos alunos de Ciência da Computação da PUC Minas Campus Poços de Caldas.
 
 #Finalidade#
