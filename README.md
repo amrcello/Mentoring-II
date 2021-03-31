@@ -1,4 +1,4 @@
-#Andromeda Solids#
+Andromeda Solids
 Andromeda Solids é um visualizador de sólidos feito pelos alunos de Ciência da Computação da PUC Minas Campus Poços de Caldas.
 
 #Finalidade#
@@ -6,7 +6,7 @@ O software foi feito para ajudar os professores do CEPOC. No caso deste grupo, o
 
 O programa serve para auxiliar alunos do ensino médio que estão estudando Geometria a visualizarem melhor os sólidos platônicos e os prismas, através de um ambiente 3D totalmente rotacionável e movimentável.
 
-#Autoria#
+Autoria
 Feito pelos alunos:
 
 Eduardo Augusto Silva
